@@ -135,7 +135,7 @@ Veja o registro completo em [`AI_USAGE.md`](AI_USAGE.md).
 - [ ] Nenhuma
 
 ### Como utilizei:
-- Usei o Claude para gerar a implementação inicial do módulo de Produtos (entity, migration, DTOs, service, controller, Swagger e testes) a partir do enunciado da A1.
+- Usei o Claude para gerar a implementação inicial do módulo de Produtos
 - Usei o Claude para gerar a descrição do PR e a atualização deste README.
 
 ### O que eu entendo 100%:
